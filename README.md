@@ -38,9 +38,9 @@ Una empresa del sector de bebidas de consumo masivo necesita comprender a profun
 
 ## Dashboard
 
-| Vista General Comercial | Análisis de Rentabilidad y Detalles |
+| Vista General Comercial | Análisis de Rentabilidad y Detalles (Tooltip)|
 |---|---|
-| **[Dashboard - Página 1](/img/bebidas_page-0001.jpg)** | **[Dashboard - Página 2](/img/bebidas_page-0002.jpg)** |
+| **[Dashboard - Página 1](/img/bebidas_page-0001.jpg)** | **[Dashboard - Página 2](/img/bebidas_page-0002.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0003.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0004.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0005.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0006.jpg)** |
 
 *(Análisis complementario disponible en: **[Dashboard - Página 3](/img/bebidas_page-0003.jpg)**)*
 
