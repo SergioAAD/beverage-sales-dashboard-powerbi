@@ -42,8 +42,6 @@ Una empresa del sector de bebidas de consumo masivo necesita comprender a profun
 |---|---|
 | **[Dashboard - Página 1](/img/bebidas_page-0001.jpg)** | **[Dashboard - Página 2](/img/bebidas_page-0002.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0003.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0004.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0005.jpg)**, **[Dashboard - Página 2](/img/bebidas_page-0006.jpg)** |
 
-*(Análisis complementario disponible en: **[Dashboard - Página 3](/img/bebidas_page-0003.jpg)**)*
-
 ## Solución técnica
 
 - **Procesamiento de Datos (ETL):** Limpieza, transformación y conexión de datos históricos mediante **Power Query**.
@@ -65,7 +63,7 @@ Una empresa del sector de bebidas de consumo masivo necesita comprender a profun
     └── bebidas_page-0003.jpg
 ```
 
-**[Ver informe completo (PDF)](/docs/proyecto1/Proyecto1.pdf)**
+**[Ver informe completo (PDF)](/docs/Proyecto1.pdf)**
 
 ## Autor
 
